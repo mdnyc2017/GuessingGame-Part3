@@ -37,13 +37,10 @@ img {
 body {
     display:inline;
     text-align:center;
+    font-size: 100%;
     background-image: url('ITCrowdBackground4.jpg');
 }
-/* #app {
-    width:  60%;
-    margin: 50px auto;
-    background-color: rgba(256, 256, 256, 0.5);    
-} */
+
 .guess {
     display: inline;
     font-size: 60px;
@@ -75,10 +72,7 @@ body {
 .whitetext {
     color: white;
   }
-  
-/* .headers {
-    text-color: white-space: nowrap;
-} */
+
 
 
 
