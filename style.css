@@ -39,11 +39,11 @@ body {
     text-align:center;
     background-image: url('ITCrowdBackground4.jpg');
 }
-#app {
+/* #app {
     width:  60%;
     margin: 50px auto;
     background-color: rgba(256, 256, 256, 0.5);    
-}
+} */
 .guess {
     display: inline;
     font-size: 60px;
